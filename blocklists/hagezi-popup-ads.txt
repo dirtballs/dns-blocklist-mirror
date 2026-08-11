@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Aug 2026 06:56 UTC
-! Version: 2026.0811.0656.14
+! Last modified: 11 Aug 2026 17:52 UTC
+! Version: 2026.0811.1752.18
 ! Syntax: AdBlock
-! Number of entries: 52831
+! Number of entries: 52774
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -2876,7 +2876,6 @@
 ||ff.sweetconnect.site^
 ||vozkn.sweetgiirll.com^
 ||mwlzle.sweetmatche.com^
-||gxgwgk.swetdreem.com^
 ||kezndj.swetlovedating.com^
 ||waxbmw.swetlovedating.com^
 ||xx.syagushgeoside.com^
@@ -2900,13 +2899,11 @@
 ||nh.tamercirculi.com^
 ||rp.tammycooly.com^
 ||oj.tarascann.com^
-||wy.taririmulch.com^
 ||zu.tarterctr.com^
 ||gy.tasselyupfolds.com^
 ||fq.tasterhicket.com^
 ||ta.tathcloseup.com^
 ||cr.tatsmanaffects.com^
-||tj.tazzaspices.com^
 ||go.tbllprem.com^
 ||go.tbllreg.com^
 ||go.tbllrej.com^
@@ -44550,11 +44547,9 @@
 ||stesoargoucket.com^
 ||stesoufteegn.net^
 ||stesywijy.com^
-||stettedgruels.life^
 ||stewardconvenienceslisp.com^
 ||stewportfoliomeaning.com^
 ||stewsmall.com^
-||stfeukufunden.org^
 ||stgcdn.com^
 ||stgowan.com^
 ||sthoutte.com^
@@ -44580,7 +44575,6 @@
 ||stikoubsucki.com^
 ||stikroltiltoowi.net^
 ||stillawokeathwart.com^
-||stillrecollectwrestling.com^
 ||stiltonhewer.com^
 ||stimaariraco.info^
 ||stimtavy.net^
@@ -44653,7 +44647,6 @@
 ||stopadzblock.net^
 ||stoparmature.com^
 ||stopblockads.com^
-||stoperinbent.world^
 ||stopify.co^
 ||stoplouse.com^
 ||stoppedgipsyundoubtedly.com^
@@ -44697,8 +44690,6 @@
 ||straight-master.com^
 ||straightenedsleepyanalysis.com^
 ||straightforwardaudition.com^
-||straightiuck.net^
-||straightmenu.com^
 ||strainsomeday.com^
 ||strainviscountbestial.com^
 ||straitsbikemodern.com^
@@ -44706,7 +44697,6 @@
 ||strange-depth.pro^
 ||strangeremerged.com^
 ||strangestretch.pro^
-||strangineersa.com^
 ||strategicnet.com^
 ||stratos.blue^
 ||strawburn.com^
@@ -44730,7 +44720,6 @@
 ||stremanp.com^
 ||stremmaraftage.com^
 ||strengthapocalypsebagel.com^
-||strengthunrest.com^
 ||strenuoustarget.com^
 ||stressfulproposedangrily.com^
 ||stretchedbarbarian.com^
@@ -44739,7 +44728,6 @@
 ||stretchsneeze.com^
 ||stretchsquirrel.com^
 ||strettechoco.com^
-||strewexoticregret.com^
 ||strewshawlfluctuate.com^
 ||strewviolently.com^
 ||strict-duty.pro^
@@ -44762,7 +44750,6 @@
 ||striped-conflict.com^
 ||stripedexchange.com^
 ||strippokerforums.com^
-||stripskeletonsting.com^
 ||strodeintended.com^
 ||strokesystem.com^
 ||strombugi.com^
@@ -44773,10 +44760,8 @@
 ||strtgic.com^
 ||strugglefeatherappreciate.com^
 ||strwh.com^
-||stscczovfaipx.website^
 ||stsejehaurbpx.site^
 ||stsngueblmtfnrj.com^
-||stst.store^
 ||studads.com^
 ||studiedblackcurrantspectacles.com^
 ||studio-blender.com^
@@ -44791,7 +44776,6 @@
 ||studyingmargaritacommunicated.com^
 ||studyunharmedupscale.com^
 ||stuffedbeforehand.com^
-||stuffedpebblegerman.com^
 ||stuffedprofessional.com^
 ||stuffserve.com^
 ||stulophovedsy.net^
@@ -44834,7 +44818,6 @@
 ||stylish-airport.com^
 ||stylish-knife.com^
 ||su-ti.com^
-||subaraagam.com^
 ||subdatejutties.com^
 ||subdividecola.com^
 ||subdueconsensus.com^
@@ -44853,7 +44836,6 @@
 ||submissive-spirit.pro^
 ||submissivecrusader.com^
 ||submissivejuice.com^
-||submissiveproject.pro^
 ||submit-application-job.com^
 ||subsalefurrowy.qpon^
 ||subsaurdogh.com^
@@ -44870,7 +44852,6 @@
 ||subtle-stick.pro^
 ||subtleeffective.com^
 ||subtlelady.com^
-||subtlemillenniumgallop.com^
 ||subtlepeople.pro^
 ||subtlething.com^
 ||suburban-anxiety.com^
@@ -44885,7 +44866,6 @@
 ||successesstudents.com^
 ||successfullucks.net^
 ||successmasterclass.com^
-||successmightyfainted.com^
 ||suctionautomobile.com^
 ||suctiondecade.com^
 ||sudanewsmedia.com^
@@ -44897,9 +44877,7 @@
 ||sueivypeg.com^
 ||suffarilbf.com^
 ||sufferpounceo.com^
-||sufferspringdungeon.com^
 ||suffixsemitram.com^
-||suffocatefont.com^
 ||suffocatefried.com^
 ||suffocateinnhandling.com^
 ||sugar-lady.com^
@@ -44978,14 +44956,12 @@
 ||sunrisesharply.com^
 ||sunrisestrong.org^
 ||sunshineadvantagepa.com^
-||sunstrokeprerogative.com^
 ||suntaliaenerji.com^
 ||sunxiunxmak.xyz^
 ||supamaker.dev^
 ||supapush.net^
 ||super-currency.pro^
 ||super-traf.ru^
-||super-trooper.net^
 ||superadexchange.com^
 ||superbboutcontinue.com^
 ||superbet999.com^
@@ -44997,7 +44973,6 @@
 ||superficial-chain.com^
 ||superficial-initial.pro^
 ||superficial-sensitive.com^
-||superficial-work.com^
 ||superficialentrance.com^
 ||superficialeyes.com^
 ||superficialfact.pro^
@@ -45039,7 +45014,6 @@
 ||supplement-nutritional.com^
 ||supplements-dietary.com^
 ||supplementsrx.com^
-||suppliesfloored.com^
 ||supplyrefereesneeze.com^
 ||support-secondmanual.com^
 ||supportedbailednotions.com^
@@ -45051,7 +45025,6 @@
 ||supposedlydolls.com^
 ||supposedsite.com^
 ||supposereduction.com^
-||suppressedbottlesenjoyable.com^
 ||suppressedhole.com^
 ||suppressedtrophy.com^
 ||suppresseduphousing.com^
@@ -45064,7 +45037,6 @@
 ||surechieflyrepulse.com^
 ||sureconciliateprojection.com^
 ||surefooted-customer.pro^
-||surefootedmaintenance.com^
 ||surenther.xyz^
 ||surestisis.com^
 ||surfast.xyz^
@@ -45095,7 +45067,6 @@
 ||survey4uou.com^
 ||surveygett.com^
 ||surveyspaid.com^
-||survivalaccusationspeaker.com^
 ||survivalcares.net^
 ||survivepricepursuing.com^
 ||susanonerouscurt.com^
@@ -45140,7 +45111,6 @@
 ||svrgcqgtpe.com^
 ||svrlejjh.com^
 ||svstfplolhlll.website^
-||svswyokrievoe.space^
 ||svtefnjwxtoto.site^
 ||svueoubgfj.com^
 ||svwgsnjcx.com^
@@ -45161,7 +45131,6 @@
 ||swarmpush.com^
 ||swarmspokenfunds.com^
 ||swarmwastefultried.com^
-||swarthyasparagusbrevity.com^
 ||swarthycupsconceal.com^
 ||swasthyahosptial.com^
 ||swasticsales.com^
@@ -45170,7 +45139,6 @@
 ||swavoo.top^
 ||swbbtzshzxsve.space^
 ||swcnmtb.top^
-||swearnorthwestbeaver.com^
 ||sweatdatess.com^
 ||sweaterokay.com^
 ||sweaterwarmly.com^
@@ -45183,7 +45151,6 @@
 ||sweatyexcessiveclose.com^
 ||sweatypositive.com^
 ||sweatysynchronize.com^
-||swededouble.com^
 ||sweenykhazens.com^
 ||sweeperpiltock.com^
 ||sweepia.com^
@@ -45205,7 +45172,6 @@
 ||swervemunchfibber.com^
 ||swesomepop.com^
 ||swetdatee.com^
-||swetdrem.com^
 ||swetflirt.com^
 ||swetflirt.net^
 ||swetllove.com^
@@ -45225,7 +45191,6 @@
 ||swiftmotorsholt.com^
 ||swiftstreamhub.com^
 ||swilyrqvxrbqh.net^
-||swime.online^
 ||swimmertinkergrapefruit.com^
 ||swimmingtoothbrushenable.com^
 ||swimmingusersabout.com^
@@ -45249,14 +45214,12 @@
 ||swooppolygraph.com^
 ||swoqxitffjvon.online^
 ||sworlowedonhisdh.org^
-||swornethnicfive.com^
 ||swottedplaidie.com^
 ||swounsdivell.life^
 ||swp-trcj.bid^
 ||swqbxuwualq.com^
 ||swtagnfimnhdt.website^
 ||swvc-session.com^
-||swvcecehtgehf.space^
 ||swwbthxvim.net^
 ||swwpush.com^
 ||swxia.com^
@@ -45288,7 +45251,6 @@
 ||syeniteexodoi.com^
 ||syfsmblwp.net^
 ||sygtizmeejp.com^
-||syhhlxnyzltmu.site^
 ||syinga.com^
 ||syjdnrpmey.com^
 ||sylfaczvioejj.site^
@@ -45357,7 +45319,6 @@
 ||szmfe.com^
 ||szplgk.cn^
 ||szqhxwawhc.com^
-||szqvbkwohszkr.space^
 ||szqxvo.com^
 ||szubtepzaka.com^
 ||szydpz.com^
@@ -45474,7 +45435,6 @@
 ||tampedirenica.com^
 ||tamping.net^
 ||tan-hurry.pro^
-||tanaisttrilisa.com^
 ||tanceteventu.com^
 ||tangerineprestigiousbehaved.com^
 ||tangible-guarantee.pro^
@@ -45534,7 +45494,6 @@
 ||taskpea.com^
 ||taskpesky.com^
 ||tasktrivialaggregated.com^
-||tastedaftknowledge.com^
 ||tastemynews.com^
 ||tastercloskey.com^
 ||tastiesfoods.com^
@@ -45556,11 +45515,9 @@
 ||tatteredperception.pro^
 ||tattoomex.com^
 ||tatusiaunpaste.com^
-||tatxbrshtjgfs.site^
 ||tatxzrwrchkkrj.com^
 ||taughtloudlydemise.com^
 ||taughttroopscoy.com^
-||taujubarb.com^
 ||tauliabridler.com^
 ||taut-nature.com^
 ||taut-painting.com^
@@ -45575,14 +45532,12 @@
 ||taxissung.com^
 ||taxissunroom.com^
 ||taxitesgyal.top^
-||taypwqoprmcap.space^
 ||tazlo.cloud^
 ||tazulrecupees.com^
 ||tb800.com^
 ||tbaffiliate.com^
 ||tbakyjei.com^
 ||tbao684tryo.com^
-||tbavixmkrnspx.space^
 ||tbcthwmcjkhtjw.xyz^
 ||tbeiu658gftk.com^
 ||tbgwyrxwtmfrh.site^
@@ -45607,7 +45562,6 @@
 ||tcseehnbrn.com^
 ||tctbgheohtgfnm.net^
 ||tctnodi.top^
-||tctrbtdxbscuw.site^
 ||tcudrocivr.com^
 ||tcvlrtqsfqkbo.store^
 ||tcwgmjsjgtsrm.space^
@@ -45616,7 +45570,6 @@
 ||tdayxwkkjpayva.com^
 ||tdbcctiulenif.site^
 ||tdcietast.com^
-||tdduvz.icu^
 ||tdloqzawzkjm.com^
 ||tdotabsksmdtys.com^
 ||tdpgdkyy.com^
@@ -45626,7 +45579,6 @@
 ||tdsafe.org^
 ||tdslinetraffic.com^
 ||tdxsyuetu.com^
-||tdzegpeatygun.tech^
 ||teabagstudios.com^
 ||teads.tv^
 ||teaecrtvfe.com^
@@ -45640,7 +45592,6 @@
 ||teamsperilous.com^
 ||tearfulglass.com^
 ||tearyfotive.com^
-||teasemilesnewlywed.com^
 ||teasernet.com^
 ||teaspoonwrenpursue.com^
 ||teavod.com^
@@ -45696,7 +45647,6 @@
 ||teethundercoverhowever.com^
 ||teethunite.com^
 ||tefbawbee.top^
-||tefdhv.icu^
 ||teggcraws.com^
 ||teggio.de^
 ||tegleebs.com^
@@ -45736,7 +45686,6 @@
 ||temasrelevantes.com^
 ||temiakazon.com^
 ||temksrtd.net^
-||temperconceited.com^
 ||temperrunnersdale.com^
 ||temperweekly.com^
 ||tempisite.com^
@@ -45783,18 +45732,15 @@
 ||tenthinvariably.com^
 ||tenthsfrumpy.com^
 ||teotnajhxmwts.site^
-||tepid-beat.pro^
 ||tepid-gather.pro^
 ||tepidpolicy.com^
 ||tepos.cloud^
-||tepsmyvnxfssq.space^
 ||tequilamexihco.store^
 ||teracent.net^
 ||teracreative.com^
 ||teraticsquelch.cyou^
 ||terbutalinelawsuit.com^
 ||terciogouge.com^
-||terfumescom.com^
 ||termcolonialhedwig.com^
 ||termerspatrice.com^
 ||terminussurfacespurr.com^
@@ -45810,13 +45756,11 @@
 ||terribleroll.pro^
 ||terriblesource.com^
 ||terribleweakness.pro^
-||terriblygranarydeity.com^
 ||terriblyslit.com^
 ||terrific-convert.com^
 ||terrific-use.pro^
 ||terrificdark.com^
 ||terrificdiamond.com^
-||terrifiedbeneficialutilize.com^
 ||terypu.pro^
 ||tesingdeomo.xyz^
 ||tesseract-ocr.com^
@@ -45832,7 +45776,6 @@
 ||tetheryplagues.com^
 ||tetrdracausa.com^
 ||tetsoodsuxulr.com^
-||tevfosejxalzh.website^
 ||tewharehauora.com^
 ||texasworkerscomplaw.com^
 ||texsk.com^
@@ -45861,7 +45804,6 @@
 ||tft-test.ru^
 ||tftdiiblvkyjfm.com^
 ||tftrm.com^
-||tfvanr.icu^
 ||tfwjtrkuueobz.online^
 ||tfxiq.com^
 ||tfxswxtxcickc.space^
@@ -46064,6 +46006,7 @@
 ||thewaytx.com^
 ||theweblocker.net^
 ||theweddingmahotsav.com^
+||thewilddetail.com^
 ||thewizardsports.me^
 ||theworldwideguide.com^
 ||thewsere.top^
