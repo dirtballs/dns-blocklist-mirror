@@ -1,0 +1,116 @@
+name: Sync DNS blocklists
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-dns-blocklists
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download and validate lists
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          mkdir -p blocklists
+          tmp_dir="$(mktemp -d)"
+          trap 'rm -rf "$tmp_dir"' EXIT
+
+          fetch_list() {
+            local output="$1"
+            local min_bytes="$2"
+            local min_lines="$3"
+            shift 3
+
+            local candidate="$tmp_dir/$(basename "$output")"
+            local downloaded=false
+
+            for url in "$@"; do
+              echo "Trying $url"
+              if curl --fail --location --silent --show-error \
+                --retry 3 --retry-all-errors --connect-timeout 20 --max-time 180 \
+                "$url" --output "$candidate"; then
+                local bytes lines
+                bytes="$(wc -c < "$candidate")"
+                lines="$(wc -l < "$candidate")"
+
+                if (( bytes < min_bytes || lines < min_lines )); then
+                  echo "Rejected: only ${bytes} bytes and ${lines} lines"
+                  continue
+                fi
+
+                if head -c 512 "$candidate" | grep -Eiq '<!doctype html|<html|access denied|not found'; then
+                  echo "Rejected: response looks like an error page"
+                  continue
+                fi
+
+                if ! grep -Eq '(^!|^#|^\|\||^@@\|\||^[[:space:]]*0\.0\.0\.0[[:space:]]|^[[:alnum:]_*.-]+\.[[:alpha:]]{2,})' "$candidate"; then
+                  echo "Rejected: content does not look like a blocklist"
+                  continue
+                fi
+
+                downloaded=true
+                break
+              fi
+            done
+
+            if [[ "$downloaded" != true ]]; then
+              echo "All sources failed validation for $output" >&2
+              exit 1
+            fi
+
+            mv "$candidate" "$output"
+            echo "Updated $output ($(wc -l < "$output") lines)"
+          }
+
+          hagezi_gitlab="https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock"
+          hagezi_github="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock"
+
+          fetch_list blocklists/hagezi-pro-plus.txt 100000 5000 \
+            "$hagezi_gitlab/pro.plus.txt" \
+            "$hagezi_github/pro.plus.txt"
+
+          fetch_list blocklists/hagezi-tif.txt 100000 5000 \
+            "$hagezi_gitlab/tif.txt" \
+            "$hagezi_github/tif.txt"
+
+          fetch_list blocklists/hagezi-popup-ads.txt 10000 500 \
+            "$hagezi_gitlab/popupads.txt" \
+            "$hagezi_github/popupads.txt"
+
+          fetch_list blocklists/hagezi-referral-allowlist.txt 100 5 \
+            "$hagezi_gitlab/whitelist-referral.txt" \
+            "$hagezi_github/whitelist-referral.txt"
+
+          fetch_list blocklists/dandelion-anti-malware.txt 10000 500 \
+            "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt" \
+            "https://gitlab.com/DandelionSprout/adfilt/-/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt" \
+            "https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt"
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          if git diff --quiet -- blocklists/ && [[ -z "$(git status --porcelain -- blocklists/)" ]]; then
+            echo "No blocklist changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add blocklists/
+          git commit -m "chore: sync DNS blocklists"
+          git push
