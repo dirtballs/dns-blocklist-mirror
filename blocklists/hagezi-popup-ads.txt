@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Aug 2026 06:58 UTC
-! Version: 2026.0813.0658.33
+! Last modified: 13 Aug 2026 14:09 UTC
+! Version: 2026.0813.1409.23
 ! Syntax: AdBlock
-! Number of entries: 54237
+! Number of entries: 54228
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -393,9 +393,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1654,7 +1651,6 @@
 ||kn.healfultwifold.com^
 ||jq.heallinolin.com^
 ||bgqwbb.heartconneccts.com^
-||llozqb.heartdatiing.com^
 ||nroveq.heartsomee.com^
 ||llvjrb.heartstriings.com^
 ||dw.heddlelaridae.com^
@@ -12922,6 +12918,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -15281,7 +15278,6 @@
 ||caffestella.com^
 ||caffisounnew.cyou^
 ||cagaieedrohdv.site^
-||cagothie.net^
 ||caguo.com^
 ||cahillcollaborative.ca^
 ||cahootdisodic.com^
@@ -15451,6 +15447,7 @@
 ||capefast.com^
 ||caperedlevi.com^
 ||caphaiks.com^
+||capital-order.pro^
 ||capitalistsplitting.com^
 ||capndr.com^
 ||cappuccinoinaneconsiderate.com^
@@ -15988,7 +15985,6 @@
 ||chairsavoury.com^
 ||chaisehoorahs.com^
 ||chaiserepiece.com^
-||chaithoa.com^
 ||chaiwnaoytjig.site^
 ||chakra-balancing.com^
 ||chakra-chart.com^
@@ -25259,7 +25255,6 @@
 ||glempirteechacm.com^
 ||glenrumour.com^
 ||glenypsyha.com^
-||glersakr.com^
 ||glfbkt.cn^
 ||glfy008.com^
 ||glfzogoyre.com^
@@ -27284,7 +27279,6 @@
 ||hogfilament.com^
 ||hoggetforfend.com^
 ||hoggishtoraja.shop^
-||hoglinsu.com^
 ||hognuckouckie.net^
 ||hogtiedhalawi.com^
 ||hohaubamsouvog.net^
@@ -29532,7 +29526,6 @@
 ||jasmoneriprap.com^
 ||jatdaroxrdwk.com^
 ||jatobacutikin.com^
-||jauhedeps.net^
 ||jaukeepsaupsie.net^
 ||jaunauroat.net^
 ||jaunty-sister.com^
@@ -53766,7 +53759,6 @@
 ||zedo.com^
 ||zeebestmarketing.com^
 ||zeechoog.net^
-||zeekaihu.net^
 ||zeelooshashey.net^
 ||zeemoavaustoazy.com^
 ||zeenko.shop^
@@ -53932,7 +53924,6 @@
 ||zipazvzu.com^
 ||zipdealtdomestic.com^
 ||zirbharizcp.com^
-||zirdough.net^
 ||zireemilsoude.net^
 ||zirkiterocklay.com^
 ||zisezi.com^
