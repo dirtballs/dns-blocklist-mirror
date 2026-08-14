@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Aug 2026 17:52 UTC
-! Version: 2026.0813.1752.21
+! Last modified: 14 Aug 2026 07:09 UTC
+! Version: 2026.0814.0709.59
 ! Syntax: AdBlock
-! Number of entries: 52179
+! Number of entries: 52290
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -76,6 +76,7 @@
 ||demo.52koala.com^
 ||9fa67c2dc3.54a73dbcb6.com^
 ||pfwdca329.55477.com^
+||ddb8277edc.5608c7633c.com^
 ||beta.5744.cc^
 ||06b36b4508.5813e74b18.com^
 ||1fe6b5ca5a.5ea748c035.com^
@@ -987,9 +988,16 @@
 ||llmqba.datiingfun.com^
 ||raxqx.datiingfun.com^
 ||xoqkoa.datiinghearts.com^
+||www.aolvng.datiingvibe.com^
+||www.bexzed.datiingvibe.com^
+||www.lljkgq.datiingvibe.com^
+||www.vndng.datiingvibe.com^
+||ogjknz.datiingvibe.com^
+||wazjdr.datiingvibe.com^
 ||mrvraz.datingcorrner.com^
 ||jwdrqw.datingflame2.com^
 ||aowvrr.datingfunn.com^
+||mrvraz.datingglive.com^
 ||nrlgwr.datinggmatch.com^
 ||beazzm.datingiife.net^
 ||rnwokz.datingjustforyou.com^
@@ -1003,7 +1011,24 @@
 ||zovjwq.datingzonee.com^
 ||nrjbow.datingzoone.net^
 ||uo.datsunthick.com^
+||www.vnwxkk.dattes4u.com^
+||bgkqzz.dattes4u.com^
+||nrwrnb.dattes4u.com^
+||wdkll.dattes4u.com^
+||www.eolnm.datteshub.com^
+||www.jnoxow.datteshub.com^
+||www.jqmml.datteshub.com^
+||nrwkax.datteshub.com^
+||www.nrjbow.dattiesfree.com^
+||zovlxd.dattiesfree.com^
 ||zbkkrb.dattinglife.com^
+||bggrjw.dattinglive.net^
+||ddkbae.dattinglive.net^
+||enwvwx.dattinglive.com^
+||kgwrbg.dattinglive.net^
+||nrarbv.dattinglive.net^
+||qvvqbm.dattinglive.net^
+||rgqraq.dattinglive.net^
 ||rw.davielyedith.com^
 ||survey.dawn.com^
 ||jr.dawtetweever.com^
@@ -1098,9 +1123,31 @@
 ||lf.dracoencinal.com^
 ||bm.dragbarvipery.com^
 ||qr.drammerxylinid.com^
+||llmbgk.drealove.com^
+||vlvrq.drealove.com^
+||aoladj.dreameove.com^
+||ddnldn.dreameove.com^
+||keolvo.dreameove.com^
+||qgojev.dreameove.com^
+||zbwzjn.dreameove.com^
 ||qgjmaw.dreamiinyou.com^
+||www.llerql.dreamiova.com^
+||keonrm.dreamiova.com^
+||llozqb.dreamiova.com^
+||nroveq.dreamiova.com^
+||ogqvoq.dreamiova.com^
 ||xbamro.dreamjustforyou.com^
 ||zovzgo.dreamlloves.com^
+||www.ddjard.dreamuove.com^
+||bgvvrd.dreamuove.com^
+||bgwnkm.dreamuove.com^
+||dgxdwb.dreamuove.com^
+||grdrmq.dreamuove.com^
+||grnkqx.dreamuove.com^
+||vzmxb.dreamuove.com^
+||wawxmw.dreamuove.com^
+||xbaznm.dreamuove.com^
+||zovead.dreamuove.com^
 ||www.largze.dreamydatees.com^
 ||rnmrla.dreemdat.com^
 ||enwvwx.dreemllov.com^
@@ -1159,6 +1206,21 @@
 ||wb.ellsconuses.com^
 ||ru.embraceungripe.click^
 ||ll.emigresspecie.top^
+||comgrkbqd.emotiondale.com^
+||comkeojbm.emotiondale.com^
+||comnkzgr.emotiondale.com^
+||ddrodv.emotiondale.com^
+||elwvzx.emotiondale.com^
+||grkbqd.emotiondale.com^
+||grxje.emotiondale.com^
+||jbvng.emotiondale.com^
+||jnawnn.emotiondale.com^
+||keojbm.emotiondale.com^
+||kmjol.emotiondale.com^
+||nkzgr.emotiondale.com^
+||pdjmm.emotiondale.com^
+||xbnvda.emotiondale.com^
+||www.laowkj.emottiondate.com^
 ||pa.emptionunpray.com^
 ||ez.empusacooner.com^
 ||pp.encarpigiher.com^
@@ -1412,15 +1474,35 @@
 ||webapp.ghost.io^
 ||webassetsapp.ghost.io^
 ||bm.ghurrytacoma.com^
+||www.dvkog.giirldate.com^
+||bxwve.giirldate.com^
+||www.jndvxw.giirlfinder.com^
+||www.odmewk.giirlforme.com^
 ||mwajrj.giirlforya.com^
 ||elrrqn.giirlmatch.com^
+||www.nrjbow.giirltogether.com^
+||llvrvw.giirltogether.com^
 ||nrwrlq.giirlxyou.com^
+||www.eljldx.giirlyours.com^
+||www.nrjbow.giirlyours.com^
+||zozrlb.giirlyours.com^
 ||mo.gillianmalthus.shop^
 ||yx.gingivakeap.com^
 ||lq.ginnelhangle.com^
 ||xp.ginnleelrage.com^
 ||mrvraz.gioriousdates.com^
 ||qx.girdedshevri.com^
+||www.vzoegr.girldatee.com^
+||elbwqd.girldatee.com^
+||xbdlvn.girldatee.com^
+||www.nrjrlx.girlforme.com^
+||aolvng.girlforya.com^
+||bexzed.girlforya.com^
+||enwvwx.girlforya.com^
+||gxeelr.girlforya.com^
+||lljkgq.girlforya.com^
+||rnjero.girlforya.com^
+||vndng.girlforya.com^
 ||xv.girlismbraxy.shop^
 ||nrjbof.girllforyoulove.com^
 ||nrjbow.girllforyoulove.com^
@@ -1503,6 +1585,7 @@
 ||vaccination.gov.ng^
 ||et.grandmatootsy.com^
 ||official-complete-1.granpulse.us^
+||ig.greensswobs.com^
 ||ml.groinedbolide.com^
 ||qj.grontlupulin.top^
 ||za.groovyartemia.com^
@@ -1937,6 +2020,9 @@
 ||vnwxkk.llovemeonline.com^
 ||ajljb.lloveonllne.net^
 ||nrvkoj.lluckypllaces.com^
+||bgvaaz.lluckytime.com^
+||laqbeo.lluckytime.com^
+||zldbb.lluckytime.com^
 ||rnwork.lmposlngdate.com^
 ||bgjjvg.lmpressivedates.com^
 ||llvjrb.lmpresslvedate.net^
@@ -2427,6 +2513,7 @@
 ||bontent.powvideo.net^
 ||jr.prahmnatured.com^
 ||ev.pramsgd.top^
+||ttk.prbibo.top^
 ||if.precidemachin.com^
 ||mn.prespurmaness.com^
 ||serve.prestigecasino.com^
@@ -2450,6 +2537,7 @@
 ||vr.prpscroff.com^
 ||xh.pruigosozin.com^
 ||jb.psendroomth.com^
+||bx.pseudoenarbor.com^
 ||live.publyt.com^
 ||bx.pufferslolium.shop^
 ||wg.puggishzuffolo.com^
@@ -2547,6 +2635,7 @@
 ||bo.rhaphaecelts.com^
 ||jp.rian-rian.com^
 ||so.riantlyfolded.com^
+||lb.riddedbaile.com^
 ||yd.riemvocule.com^
 ||ck.rinchperjink.shop^
 ||uh.ripebotete.top^
@@ -2737,7 +2826,24 @@
 ||ul.spatingaegina.com^
 ||ee.spatiumsurnap.shop^
 ||wx.spattleflics.com^
+||www.aolvng.speciaidates.com^
+||www.ddvwla.speciaidates.com^
+||www.gxeelr.speciaidates.com^
+||www.lljkgq.speciaidates.com^
+||www.ogjknz.speciaidates.com^
+||www.qgagxn.speciaidates.com^
+||www.rdvol.speciaidates.com^
+||jnaagj.speciaidates.com^
+||wazjdr.speciaidates.com^
 ||aoqlgw.special2date.net^
+||www.beblqo.specialdate.net^
+||www.elqxaa.specialdate.net^
+||www.gxalwv.specialdate.net^
+||www.jnjemn.specialdate.net^
+||www.llmnxw.specialdate.net^
+||www.zozozj.specialdate.net^
+||llmowx.specialdate.net^
+||ogrrlq.specialdate.net^
 ||ta.spherepsoai.com^
 ||ww.sphinxtube.com^
 ||ant.spica-telescope.com^
@@ -2995,6 +3101,7 @@
 ||dglqvwczzmoxxbx.truelovehunt.com^
 ||ftf.ts16949.cn^
 ||er.tsantsacopter.shop^
+||ah.tsureslipper.com^
 ||zd.tubabardy.com^
 ||sexemulator.tube-sexs.com^
 ||co.tubefulsewers.com^
@@ -3018,6 +3125,7 @@
 ||ads.twitter.center^
 ||gbg.ty2s-pqv7.com^
 ||ef.tyddenover.com^
+||qt.tylotustins.com^
 ||bb.tymbalsburan.com^
 ||pq.typablehoist.qpon^
 ||auth.typeform.co^
@@ -10604,6 +10712,7 @@
 ||always-happy-fortune.com^
 ||alwaysdomain01.online^
 ||alwaysfabulousboutique.info^
+||alwaysmulticulturallanding.com^
 ||alwayspainfully.com^
 ||alwcussi.com^
 ||alwwwicavoln.com^
@@ -32132,6 +32241,7 @@
 ||marksdespitelinear.com^
 ||markshospitalitymoist.com^
 ||markus-feilen.de^
+||marmotsreloan.top^
 ||marmotsymptom.com^
 ||marootrack.co^
 ||marovia.cc^
@@ -32768,6 +32878,7 @@
 ||miceelectricitysubdued.com^
 ||michaelaguiar.dev^
 ||michelleastone.com^
+||michelredbait.shop^
 ||michiakagi.com^
 ||michiakari.com^
 ||michiakaza.com^
