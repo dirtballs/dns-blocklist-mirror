@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Aug 2026 07:09 UTC
-! Version: 2026.0814.0709.59
+! Last modified: 14 Aug 2026 14:15 UTC
+! Version: 2026.0814.1415.22
 ! Syntax: AdBlock
-! Number of entries: 52290
+! Number of entries: 52289
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -355,9 +355,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -12645,6 +12642,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -15434,6 +15432,7 @@
 ||cdwmtt.com^
 ||ce0oil1ibu.com^
 ||ce6fc56927.com^
+||ceasedroommateunseen.com^
 ||ceaslesswisely.com^
 ||cec8fcac3f1d0232d9b71bbb295073c52d2b1ca6bbe711fbc8020f4a.com^
 ||cecilngoma.com^
