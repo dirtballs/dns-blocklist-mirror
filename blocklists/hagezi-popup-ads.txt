@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Aug 2026 07:03 UTC
-! Version: 2026.0824.0703.10
+! Last modified: 24 Aug 2026 14:09 UTC
+! Version: 2026.0824.1409.47
 ! Syntax: AdBlock
 ! Number of entries: 54161
 !
@@ -372,9 +372,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -13006,6 +13003,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -19108,6 +19106,7 @@
 ||deeprootedstranded.com^
 ||deepsathegoh.com^
 ||deepseek.app^
+||deepseek-en.com^
 ||deerastron.xyz^
 ||deerbeginner.com^
 ||deergravity.com^
@@ -29018,6 +29017,7 @@
 ||involvementsolderhandkerchief.com^
 ||involvewynter.com^
 ||inwardabruptly.com^
+||inwardscaimito.shop^
 ||inwucno.top^
 ||inxcdn.com^
 ||ioadserve.com^
