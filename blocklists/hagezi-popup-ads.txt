@@ -1,15 +1,15 @@
 [Adblock Plus]
 ! Title: HaGeZi's Pop-Up Ads DNS Blocklist
-! Description: Blocks annoying and malicious pop-up ads.
+! Description: Targets pop-up ads that range from annoying to outright malicious.
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Aug 2026 14:09 UTC
-! Version: 2026.0824.1409.47
+! Last modified: 25 Aug 2026 07:03 UTC
+! Version: 2026.0825.0703.14
 ! Syntax: AdBlock
-! Number of entries: 54161
+! Number of entries: 54168
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -372,6 +372,9 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
+||chiyouranai.base.shop^
+||tokujiro.base.shop^
+||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -7463,6 +7466,7 @@
 ||2ba0f6361c.com^
 ||2bd77addac.com^
 ||2beno.com^
+||2bestoffer.com^
 ||2bitpalomino.com^
 ||2blogspot.com^
 ||2bnn.com^
@@ -13003,7 +13007,6 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
-||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -14688,6 +14691,7 @@
 ||briefcasediscontented.com^
 ||briefingresistbrazen.com^
 ||brieflizard.com^
+||brieflyboatproceeding.com^
 ||briefnegotiation.pro^
 ||briefready.com^
 ||briefsection.com^
@@ -19062,6 +19066,7 @@
 ||decoydeclaration.com^
 ||decpo.xyz^
 ||decreaselackadmit.com^
+||decreasestreet.com^
 ||decreasetome.com^
 ||decreeexaggerate.com^
 ||decreeinabilityrowing.com^
@@ -34260,6 +34265,7 @@
 ||mmnn.jp^
 ||mmofhaxm.com^
 ||mmondi.com^
+||mmoplayerz.com^
 ||mmotraffic.com^
 ||mmrjzyaqzwcad.com^
 ||mmrmweiuohhu.com^
@@ -36232,6 +36238,7 @@
 ||ntdotx.icu^
 ||ntedbycathyhou.com^
 ||ntent.com^
+||ntesgsght.com^
 ||ntfck.com^
 ||ntfx-acc.com^
 ||nthkmosujmuo.net^
