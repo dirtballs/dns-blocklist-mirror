@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Aug 2026 07:03 UTC
-! Version: 2026.0825.0703.14
+! Last modified: 26 Aug 2026 09:53 UTC
+! Version: 2026.0826.0953.11
 ! Syntax: AdBlock
-! Number of entries: 54168
+! Number of entries: 54162
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -14407,7 +14407,6 @@
 ||boredhippie.com^
 ||boredomcuff.com^
 ||boredominducemoan.com^
-||borger-sundhed.com^
 ||borghaswing.com^
 ||borghjism.com^
 ||borhaj.com^
@@ -16622,7 +16621,6 @@
 ||clarifyguidance.com^
 ||claring-loccelkin.com^
 ||clarks-dk.com^
-||clarksskonorge.com^
 ||clash-media.com^
 ||classedsamekh.com^
 ||classesrainbowburka.com^
@@ -16666,6 +16664,7 @@
 ||clean-browsing.com^
 ||clean-climate.pro^
 ||clean-relief.pro^
+||cleandev.cc^
 ||cleanerbest.online^
 ||cleaneroccultowner.com^
 ||cleanflawlessredir.com^
@@ -18698,7 +18697,6 @@
 ||daodo.bond^
 ||daoicom.bond^
 ||daoteams.com^
-||daovisx.com^
 ||daoxo.bond^
 ||daphnews.com^
 ||dappboard.com^
@@ -21523,6 +21521,7 @@
 ||emergencyroomclients.com^
 ||emerson.kr^
 ||emfhxsmebkthh.website^
+||emgthroposit.org^
 ||emicalcoveningspon.org^
 ||emierete.com^
 ||eminencehillsidenutrition.com^
@@ -23543,6 +23542,7 @@
 ||fludnnoy.com^
 ||fluencypierre.com^
 ||fluencythingy.com^
+||fluentcleaner.org^
 ||fluentlyfairytalesleep.com^
 ||fluentlyfeminineenfold.com^
 ||fluentropeinquiry.com^
@@ -25365,7 +25365,6 @@
 ||gluchaux.com^
 ||gluchoaseelaipa.net^
 ||glucmautoo.net^
-||glugherg.net^
 ||glukropi.com^
 ||glum-mortgage.com^
 ||glumapproval.com^
@@ -36010,7 +36009,6 @@
 ||nordicmountain.ski^
 ||noretia.com^
 ||noretype.ru^
-||norgeposten.today^
 ||normal-photo.com^
 ||normalballet.com^
 ||normalchain.pro^
@@ -36748,7 +36746,6 @@
 ||ofdnfisab.com^
 ||ofelekidr.com^
 ||ofertapty.net^
-||off-whitedanmark.com^
 ||offaces-butional.com^
 ||offalakazaman.com^
 ||offalsallasch.com^
@@ -38126,7 +38123,6 @@
 ||pakarsex.xyz^
 ||pakbanners.com^
 ||pakke.click^
-||pakkeposten.today^
 ||pakok.net^
 ||pakwjjwor.com^
 ||palaceunlituntouched.com^
@@ -38689,7 +38685,6 @@
 ||pestersecondlyoak.com^
 ||pestholy.com^
 ||pestilenttidefilth.org^
-||pestseminars.com^
 ||pesttraywelcoming.com^
 ||petargumentswhirlpool.com^
 ||petbok.com^
@@ -39609,12 +39604,9 @@
 ||postback.monster^
 ||postback.report^
 ||postback1win.com^
-||postennorge.today^
-||postenpakke.today^
 ||posteritybenevolence.com^
 ||posterityrefusal.com^
 ||postlnk.com^
-||postnord-eco.xyz^
 ||postrelease.com^
 ||postsupport.net^
 ||postthieve.com^
@@ -39926,7 +39918,6 @@
 ||principlespite.com^
 ||principleunitsweighty.com^
 ||prinksoncotic.com^
-||printablemagic.com^
 ||printerappreciationwidespread.com^
 ||printerkidneyethel.com^
 ||printingjerusalem.com^
@@ -40044,6 +40035,7 @@
 ||profitablenegationvacuum.com^
 ||profitablepersonsbushes.com^
 ||profitableratecpm.com^
+||profitableratecpmnetwork.com^
 ||profitabletrustednetwork.com^
 ||profitplusfinancial.com^
 ||profitsence.com^
@@ -41416,6 +41408,7 @@
 ||racialregister.com^
 ||racingorchestra.com^
 ||racismadvancecombination.com^
+||racketgutter.com^
 ||rackswine.com^
 ||racmptser.com^
 ||racunn.com^
@@ -43083,6 +43076,7 @@
 ||rustdesk.io^
 ||rustdesk.pl^
 ||rustlenear.com^
+||rustof.com^
 ||rustoria.ru^
 ||rusty-grade.pro^
 ||rusty-platform.com^
@@ -43262,6 +43256,7 @@
 ||safeageplan.link^
 ||safebed.com^
 ||safebk.shop^
+||safebooru.com^
 ||safebrowsdv.com^
 ||safeglimmerlongitude.com^
 ||safeguardflex.com^
@@ -43446,9 +43441,7 @@
 ||sauboufougroay.net^
 ||saucerblade.com^
 ||sauchooroajoal.com^
-||saucony-dk.com^
 ||saudoafeefabauk.net^
-||sauhonaik.com^
 ||saukateete.com^
 ||saulfacing.shop^
 ||saultssipibo.com^
@@ -44647,7 +44640,6 @@
 ||sk30.com^
 ||ska4at.ru^
 ||skaikru.co^
-||skat-skts-dk.com^
 ||skated.co^
 ||skatesmorella.website^
 ||skatestooped.com^
@@ -46302,7 +46294,6 @@
 ||sundhed-infodk.com^
 ||sundhed-infos.com^
 ||sundhed-skort.com^
-||sundhed-web.com^
 ||sunflowerbright106.io^
 ||sunglassesexpensive.com^
 ||sunkenclogarc.com^
@@ -50100,6 +50091,7 @@
 ||vempeeda.com^
 ||vemtoutcheeg.com^
 ||venaescag.shop^
+||vencord.cc^
 ||vendedlayup.com^
 ||vendexo.com^
 ||vendigamus.com^
@@ -50472,6 +50464,7 @@
 ||visitationhardship.com^
 ||visitationowatch.com^
 ||visitbukittinggi.com^
+||visitedmaze.com^
 ||visitingmargaretantony.com^
 ||visitingthirdnine.com^
 ||visitorframeworkreverse.com^
@@ -50687,6 +50680,7 @@
 ||vpjnefwvqgtdbh.com^
 ||vplrvf.icu^
 ||vpn-offers.org^
+||vpnapptoggle.com^
 ||vpngos.com^
 ||vpnoffers.cc^
 ||vpnonly.site^
