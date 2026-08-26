@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Aug 2026 09:53 UTC
-! Version: 2026.0826.0953.11
+! Last modified: 26 Aug 2026 14:09 UTC
+! Version: 2026.0826.1409.54
 ! Syntax: AdBlock
-! Number of entries: 54162
+! Number of entries: 54161
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -372,9 +372,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -13007,6 +13004,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -21560,6 +21558,7 @@
 ||emplorecasquet.com^
 ||employdancing.com^
 ||employedexit.com^
+||employerexcusableslighted.com^
 ||employeroverwhelming.com^
 ||employerunder.com^
 ||employerupsideliterally.com^
