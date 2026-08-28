@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Aug 2026 14:11 UTC
-! Version: 2026.0827.1411.26
+! Last modified: 28 Aug 2026 07:08 UTC
+! Version: 2026.0828.0708.57
 ! Syntax: AdBlock
-! Number of entries: 54168
+! Number of entries: 54173
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -372,6 +372,9 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
+||chiyouranai.base.shop^
+||tokujiro.base.shop^
+||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -3194,6 +3197,7 @@
 ||zowarv.treasurewaitlng.net^
 ||zozdnw.treasurewaitlng.net^
 ||px.trekkerroseola.com^
+||nextsave.trenched.cfd^
 ||ck.trepanstaunch.com^
 ||ltlweight.trgr.me^
 ||df.triablemakes.com^
@@ -13003,7 +13007,6 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
-||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -17923,6 +17926,7 @@
 ||cractivator.com^
 ||cradaygo.com^
 ||cradleharddismantle.com^
+||craftaggregate.com^
 ||craftilypendantwhinny.com^
 ||craftsmanscaffoldingwheelbarrow.com^
 ||craftsmanthin.com^
@@ -18731,6 +18735,7 @@
 ||darrellgum.com^
 ||darrinwoods.com^
 ||darsoabetoo.com^
+||dartleoleates.cyou^
 ||dartsrule.com^
 ||darvorn.com^
 ||darvuxbakh.com^
