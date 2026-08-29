@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Aug 2026 07:08 UTC
-! Version: 2026.0828.0708.57
+! Last modified: 29 Aug 2026 07:09 UTC
+! Version: 2026.0829.0709.05
 ! Syntax: AdBlock
-! Number of entries: 54173
+! Number of entries: 54178
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -11599,6 +11599,7 @@
 ||apprenticelandfallenough.com^
 ||approachingrat.com^
 ||approachproperachieve.com^
+||approachrobberhelmet.com^
 ||appropriate-league.pro^
 ||appropriateinaction.com^
 ||approvelongestrepel.com^
@@ -11805,6 +11806,7 @@
 ||arkwglkwhnhce.store^
 ||armanet.co^
 ||armanet.us^
+||armchaircrablikereuse.com^
 ||armedauditoriumclog.com^
 ||armedtidying.com^
 ||armfhefszehro.site^
@@ -37037,6 +37039,7 @@
 ||olympicsnearesttablets.com^
 ||olympuscracowe.shop^
 ||olympusmc.net^
+||omaaz.com^
 ||omatri.info^
 ||omazeiros.com^
 ||ombarboachor.com^
@@ -37338,6 +37341,7 @@
 ||opeanresultancete.info^
 ||open-office.fr^
 ||openadserving.com^
+||openai-backup.one^
 ||openairharvest.com^
 ||openblack.pro^
 ||openbook.net^
@@ -41251,6 +41255,7 @@
 ||quickpicnicuniverse.com^
 ||quicktitlenow.com^
 ||quickwitted-personal.com^
+||quickwitteddeath.com^
 ||quickwittedleave.pro^
 ||quickwittedmany.com^
 ||quickwittedpronunciation.com^
