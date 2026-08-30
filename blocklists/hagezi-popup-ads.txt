@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Aug 2026 07:09 UTC
-! Version: 2026.0829.0709.05
+! Last modified: 30 Aug 2026 07:08 UTC
+! Version: 2026.0830.0708.26
 ! Syntax: AdBlock
-! Number of entries: 54178
+! Number of entries: 54181
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -11256,6 +11256,7 @@
 ||andylaws.net^
 ||aneld.com^
 ||anemiachoky.com^
+||anenstscance.qpon^
 ||aneorwd.com^
 ||anewfeedliberty.com^
 ||anfzdatekjeck.space^
@@ -21830,6 +21831,7 @@
 ||ephraimstroked.cyou^
 ||epicclicks.net^
 ||epicgameads.com^
+||epicgameshubham.com^
 ||epicluckyday.com^
 ||epicpotec.com^
 ||epicshow.net^
@@ -25489,6 +25491,7 @@
 ||godateplus.com^
 ||goddamrebear.com^
 ||goddedkrater.com^
+||goddess-game.com^
 ||godkc.com^
 ||godlessabberant.com^
 ||godlessreasoningimaginary.com^
