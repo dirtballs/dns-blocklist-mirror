@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Aug 2026 07:08 UTC
-! Version: 2026.0830.0708.26
+! Last modified: 30 Aug 2026 22:09 UTC
+! Version: 2026.0830.2209.34
 ! Syntax: AdBlock
-! Number of entries: 54181
+! Number of entries: 54189
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -16806,6 +16806,7 @@
 ||clidelivery.com^
 ||clientlimit.com^
 ||clientslaugh.com^
+||cliffalaihi.qpon^
 ||cliffgown.com^
 ||cliffsmousestorm.com^
 ||clikdatastats.com^
@@ -18069,6 +18070,7 @@
 ||crjpingate.com^
 ||crjugate.com^
 ||crlcw.link^
+||crmared.com^
 ||crmdump.com^
 ||crmentjg.com^
 ||crn77.com^
@@ -20559,6 +20561,7 @@
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
 ||dsadyttmalqac.website^
 ||dsau5u.com^
+||dsazfk.com^
 ||dsb68d.com^
 ||dsbuiu.com^
 ||dscdkrwk.com^
@@ -20594,6 +20597,7 @@
 ||dt4ever.com^
 ||dtadnetwork.com^
 ||dtaxfikm.com^
+||dteifi.com^
 ||dtejjpoxxflrju.com^
 ||dtf-htx.net^
 ||dtf2.com^
@@ -20622,6 +20626,7 @@
 ||dtuacfnsbdhdt.space^
 ||dtusbtkefjo.xyz^
 ||dtwenjtwszi.com^
+||dtxelz.com^
 ||dtxzzhqtb.com^
 ||dtygggfhmg.com^
 ||dtyurebaioecr.com^
@@ -31273,6 +31278,7 @@
 ||labwcupacoqc.com^
 ||laceassumestatic.com^
 ||laceratecoast.com^
+||laceratereceiptworkman.com^
 ||lacertrotter.com^
 ||lacierohia.com^
 ||lackdealervisitor.com^
@@ -41896,6 +41902,7 @@
 ||redirect-path1.com^
 ||redirecting.online^
 ||redirectsnew.click^
+||redirectthisclick.com^
 ||redirecttoplace.online^
 ||redirecturl.ru^
 ||redirectvoluum.com^
@@ -47556,6 +47563,7 @@
 ||thrustlumpypulse.com^
 ||thstvv.com^
 ||thtaivujjcl.com^
+||thtrck.com^
 ||thtuqtuxdohrs.com^
 ||thubanoa.com^
 ||thuflcggpyblvo.com^
