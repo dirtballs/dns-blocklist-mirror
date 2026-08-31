@@ -5,11 +5,11 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-! Expires: 1 day
-! Last modified: 30 Aug 2026 22:09 UTC
-! Version: 2026.0830.2209.34
+! Expires: 8 hours
+! Last modified: 31 Aug 2026 07:14 UTC
+! Version: 2026.0831.0714.48
 ! Syntax: AdBlock
-! Number of entries: 54189
+! Number of entries: 54190
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -372,9 +372,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -13010,6 +13007,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -13978,6 +13976,7 @@
 ||blancoshrimp.com^
 ||blandalternative.pro^
 ||blandapantos.top^
+||blandnessproponentradiator.com^
 ||blank-game.pro^
 ||blank-respond.pro^
 ||blank-shift.pro^
@@ -25838,6 +25837,7 @@
 ||greegaubsis.net^
 ||greeghupoalrie.net^
 ||greegt.com^
+||greekexternal.com^
 ||green-culture.pro^
 ||green-red.com^
 ||green4762.com^
@@ -27051,6 +27051,7 @@
 ||highratecpm.com^
 ||highrevenuecpm.com^
 ||highrevenuecpmnetwork.com^
+||highrevenueformat.com^
 ||highrevenuegate.com^
 ||highrevenuenetwork.com^
 ||highschoolscanada.ca^
@@ -39256,6 +39257,7 @@
 ||plockcomes.com^
 ||plodparticularly.com^
 ||plodroom.com^
+||ploppedpipy.cyou^
 ||plorexdry.com^
 ||plottersprinters.com^
 ||ploughplbroch.com^
@@ -50425,7 +50427,6 @@
 ||vinhomesthanglong.asia^
 ||vinit.cloud^
 ||vinouscavish.com^
-||vinstigo.com^
 ||vintagecartruckpartsshop.net^
 ||vintagerespectful.com^
 ||vinyl-wallpaper.xyz^
