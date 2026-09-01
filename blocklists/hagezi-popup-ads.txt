@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 01 Sep 2026 07:11 UTC
-! Version: 2026.0901.0711.09
+! Last modified: 01 Sep 2026 14:11 UTC
+! Version: 2026.0901.1411.28
 ! Syntax: AdBlock
-! Number of entries: 51400
+! Number of entries: 51365
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -28,7 +28,6 @@
 ||ad.22betpartners.com^
 ||aoknzv.24clktolead.com^
 ||ex.24smi.info^
-||7c37119d9d.2533555ba6.com^
 ||dfb523f308.25e664eaff.com^
 ||yueyeezuluntan.297000.com^
 ||1cbd637d10.2c8eb505eb.com^
@@ -36,7 +35,6 @@
 ||polufredsoa.2mydns.net^
 ||35a92e241c.30ea3091fb.com^
 ||500wanjishibifen.333gw.com^
-||84029188ab.339f59c980.com^
 ||dubofalvguiding.33xs.com^
 ||quadient-1747972308352.3557.com^
 ||bf7a65c961.3632ca5b41.com^
@@ -48,7 +46,6 @@
 ||discuz.3g2win.com^
 ||go1.3mre.work^
 ||truexxx.3xx.my^
-||203a382a60.403dee4b16.com^
 ||9278bcd966.41e67cacf7.com^
 ||ar.429men.com^
 ||ca.429men.com^
@@ -59,12 +56,10 @@
 ||80fb1b35c2.47ae11ce2f.com^
 ||a3c3c7c303.48cd631c5c.com^
 ||02ab4e0699.4bc588417b.com^
-||75a42994ae.4ffc468d9b.com^
 ||ar.4wank.com^
 ||ca.4wank.com^
 ||nl.4wank.com^
 ||sk.4wank.com^
-||7ff01aa709.516c0edfbb.com^
 ||gue0sk.5200e.com^
 ||i22smm.5200e.com^
 ||qrnuh7.5200e.com^
@@ -74,7 +69,6 @@
 ||demo.52koala.com^
 ||9fa67c2dc3.54a73dbcb6.com^
 ||pfwdca329.55477.com^
-||ddb8277edc.5608c7633c.com^
 ||beta.5744.cc^
 ||06b36b4508.5813e74b18.com^
 ||1fe6b5ca5a.5ea748c035.com^
@@ -354,9 +348,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -4567,7 +4558,6 @@
 ||05et.biz^
 ||05et.net^
 ||05et.rocks^
-||05f3b6b187.com^
 ||05jjc.com^
 ||05kj.com^
 ||05nia.com^
@@ -6208,7 +6198,6 @@
 ||1337x.net^
 ||1337x.ru^
 ||1337xproxy.info^
-||1338f95c76.com^
 ||1338sanbruno.com^
 ||133cs.com^
 ||133movies.com^
@@ -6824,7 +6813,6 @@
 ||1fragrance.net^
 ||1freshphoto.com^
 ||1fsc.com^
-||1fwjpdwguvqs.com^
 ||1fzba.com^
 ||1g46ls536.de^
 ||1g8sr4.com^
@@ -7138,7 +7126,6 @@
 ||24bird.com^
 ||24carrotscafe.com^
 ||24click.top^
-||24df4bd648.com^
 ||24fa.top^
 ||24h.porn^
 ||24hmedia.net^
@@ -7218,7 +7205,6 @@
 ||2902gallery.com^
 ||291hkcido.de^
 ||29991h.com^
-||29acdc6212.com^
 ||29apfjmg2.de^
 ||29bet.top^
 ||29billion.com^
@@ -7232,7 +7218,6 @@
 ||2analsex.com^
 ||2annalea.com^
 ||2aol.com^
-||2artbeauty.com^
 ||2b8fa02c00.com^
 ||2ba0f6361c.com^
 ||2bd77addac.com^
@@ -7242,7 +7227,6 @@
 ||2blogspot.com^
 ||2bnn.com^
 ||2bps.com^
-||2bps53igop02.com^
 ||2byou.agency^
 ||2c4rrl8pe.de^
 ||2captha.com^
@@ -7352,7 +7336,6 @@
 ||30-years-later.com^
 ||3004ss.vip^
 ||300daytravel.com^
-||300slots.com^
 ||300tangshi.com^
 ||301.chat^
 ||301redirect.site^
@@ -7365,7 +7348,6 @@
 ||307i6i7do.de^
 ||308x.xyz^
 ||30986g8ab.de^
-||30beersfor30years.com^
 ||30bt.com^
 ||30collins.com^
 ||30d5shnjq.de^
@@ -7381,7 +7363,6 @@
 ||30minutos.net^
 ||30ontap.com^
 ||30p70ar8m.de^
-||30pavroad.com^
 ||30pk41r1i.de^
 ||30promesas.com^
 ||30sbmtpqa8n9.top^
@@ -7445,9 +7426,7 @@
 ||33q.com^
 ||33s.cc^
 ||33seaa.com^
-||3434849c2e.com^
 ||3448.com^
-||34c72d94d3.com^
 ||34cb.com^
 ||34knehyroodw.top^
 ||34luck.com^
@@ -7509,11 +7488,9 @@
 ||385678.com^
 ||3889.cn^
 ||388v.org^
-||3890e014d2.com^
 ||38ds89f8.de^
 ||38hash.com^
 ||38hgc.com^
-||38jogos.com^
 ||38mitsubachi38.com^
 ||38thnotes.com^
 ||39093.net^
@@ -7588,7 +7565,6 @@
 ||3j8c56p9.de^
 ||3jigen.net^
 ||3kalam.net^
-||3laenderfrauen.org^
 ||3lasvegas.com^
 ||3lift.com^
 ||3loteria.com^
@@ -7632,7 +7608,6 @@
 ||3x3eurotour.com^
 ||3xbrh4rxsvbl.top^
 ||3xgood.com^
-||3yokai.net^
 ||4-slots.com^
 ||40-yard-dash-times.com^
 ||400571.com^
@@ -7713,7 +7688,6 @@
 ||459b6951ca.com^
 ||45cashloans.com^
 ||45eijvhgj2.com^
-||45f467a9d4.com^
 ||45k.us^
 ||45secondtools.com^
 ||46676.cn^
@@ -7744,7 +7718,6 @@
 ||49jy.com^
 ||49rk.com^
 ||49tuku.xyz^
-||4afe4f94c5.com^
 ||4affiliate.net^
 ||4agentsonly.com^
 ||4am-media.com^
@@ -7762,9 +7735,7 @@
 ||4c81b78eca.com^
 ||4ccarservice.net^
 ||4cchan.org^
-||4ccomunicacion.com^
 ||4chqn.org^
-||4christ.org^
 ||4cinsights.com^
 ||4claverie.com^
 ||4co7mbsb.de^
@@ -7777,18 +7748,14 @@
 ||4dtixx.com^
 ||4dtrk.com^
 ||4e5902f95e.com^
-||4eric.org^
 ||4eymg.com^
 ||4f2sm1y1ss.com^
-||4f31c6ef07.com^
-||4f9fbf3477.com^
 ||4fee6d013f.com^
 ||4felts.com^
 ||4flight.com^
 ||4freecle.com^
 ||4g0b1inr.de^
 ||4gency.com^
-||4gosex.com^
 ||4hu.org^
 ||4hu45h.com^
 ||4hu5.com^
@@ -7840,7 +7807,6 @@
 ||4thandpain.com^
 ||4thdmovie.com^
 ||4thepeopleontheboat.com^
-||4tivo.com^
 ||4tpsolutions.com^
 ||4tr3sopq592o7svp1q6mn3.xyz^
 ||4w8w.com^
@@ -7875,7 +7841,6 @@
 ||51ccg.com^
 ||51cg1.net^
 ||51diaoyu.com^
-||51e3337e65.com^
 ||51f7cf32cd.com^
 ||51guoji.org^
 ||51jackpot.com^
@@ -7883,7 +7848,6 @@
 ||51yycm.cn^
 ||52-yn.com^
 ||525ch.com^
-||52992ea523.com^
 ||52jar.top^
 ||52jiao.cn^
 ||52laowai.com^
@@ -7902,7 +7866,6 @@
 ||54zc.cn^
 ||55093.com^
 ||550b3ikb9j.com^
-||5534a1fe5d.com^
 ||5535aibo.com^
 ||554koaylwga7.top^
 ||555.sk^
@@ -10686,7 +10649,6 @@
 ||amabileblocage.com^
 ||amaenbo.jp^
 ||amaincl.pro^
-||amala-wav.com^
 ||amamorimo.com^
 ||amanerino.com^
 ||amani-ksa.com^
@@ -12573,6 +12535,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -12660,6 +12623,7 @@
 ||bbatkopeyuogn.website^
 ||bbbmtdcv.com^
 ||bbcrgate.com^
+||bbcwebhosting.com^
 ||bbd834il.de^
 ||bbelements.com^
 ||bbentgate.com^
@@ -18966,7 +18930,6 @@
 ||dilapidationgroupprovidence.com^
 ||dilapidationmule.com^
 ||dilemmadaily.com^
-||diligentcloset.com^
 ||diligentcost.com^
 ||diligentevening.com^
 ||dillonrisk.com^
@@ -27054,6 +27017,7 @@
 ||ilxhsgd.com^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
+||ilyvo.com^
 ||im-excellent.com^
 ||imadeventcenter.com^
 ||image-play.net^
@@ -28278,7 +28242,6 @@
 ||jbwydvrl.net^
 ||jbxgbdetzfgpn.space^
 ||jbxrcjsmhfm.com^
-||jbzmwqmwqyejw.top^
 ||jbzmwqmwqyzaz.top^
 ||jbzrknohamunz.com^
 ||jcajuesjvxlqy.store^
@@ -30435,6 +30398,7 @@
 ||lidshuffletravel.com^
 ||lidsoaptee.com^
 ||liebenstein.xyz^
+||lieferanndo.de^
 ||lieforepawsado.com^
 ||liegelygosport.com^
 ||lien-lienam.com^
@@ -32419,6 +32383,7 @@
 ||miayarus.com^
 ||micaesoft.com^
 ||miceelectricitysubdued.com^
+||miceonme.com^
 ||michaelaguiar.dev^
 ||michelleastone.com^
 ||michelredbait.shop^
@@ -38128,6 +38093,7 @@
 ||productkeyscanner.com^
 ||productsrecycled.com^
 ||proeroclips.pro^
+||prof-noemie-sgzopjv.work^
 ||profaneanxietyasa.com^
 ||professionalflatly.com^
 ||professionaltrafficmonitor.com^
@@ -38926,6 +38892,7 @@
 ||qekbmjyvbbawb.top^
 ||qekbmjyvbbjkr.top^
 ||qeltbufuh.com^
+||qemow.com^
 ||qeogeasqdfowh.site^
 ||qeqyswhipqrgu.space^
 ||qernnbahzjdjf.online^
@@ -39867,7 +39834,6 @@
 ||reedpraised.com^
 ||reedsbullyingpastel.com^
 ||reedsinterfering.com^
-||reedthatm.biz^
 ||reedunpack.com^
 ||reefsetupaccidentally.com^
 ||reegreekish.net^
@@ -44367,7 +44333,6 @@
 ||syncedvision.com^
 ||syndenizen.shop^
 ||syndicatecontainer.com^
-||syndicatedsearch.goog^
 ||syndicpop.com^
 ||syndromeobtrusive.com^
 ||synergize.co^
