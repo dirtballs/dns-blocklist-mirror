@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 26 Sep 2026 07:54 UTC
-! Version: 2026.0926.0754.58
+! Last modified: 27 Sep 2026 07:35 UTC
+! Version: 2026.0927.0735.53
 ! Syntax: AdBlock
-! Number of entries: 50696
+! Number of entries: 50705
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
@@ -344,9 +344,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -10668,6 +10665,7 @@
 ||ammhamor.com^
 ||ammlwyacthit.com^
 ||ammonicdowsing.com^
+||ammunitionlikelihoodtrigger.com^
 ||amnestygall.com^
 ||amnew.net^
 ||amntx1.net^
@@ -12433,6 +12431,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basednewsarticle.com^
 ||basejudgementquizmaster.com^
@@ -15001,6 +15000,7 @@
 ||catholiccommandment.com^
 ||catilrecmemsi.com^
 ||catiuribripent.com^
+||catlikeoverdresswavy.com^
 ||catschickens.com^
 ||catsnbootsncats2020.com^
 ||catsrememberedprevent.com^
@@ -16952,6 +16952,7 @@
 ||coverdistilltile.com^
 ||coveredbetting.com^
 ||covereddependant.com^
+||coveredostentatious.com^
 ||coveringbarrister.com^
 ||coveringstrawberries.com^
 ||coverletterforresumetop.com^
@@ -17221,6 +17222,7 @@
 ||crosspreferrite.com^
 ||crossroadparalysisnutshell.com^
 ||crossroadremarkable.com^
+||crossroadyank.com^
 ||crosstowngaragedoorservices.com^
 ||crosstracksdist.com^
 ||crostol.com^
@@ -22001,6 +22003,7 @@
 ||fireworkadservices.com^
 ||fireworkadservices1.com^
 ||fireworkcamp.com^
+||fireworkeuropean.com^
 ||fireworksai.cn^
 ||fireworkswad.com^
 ||firingperishepidemic.com^
@@ -22135,6 +22138,7 @@
 ||flamesgleamed.com^
 ||flameuncle.com^
 ||flamingsharknursery.com^
+||flamssever.qpon^
 ||flamtyr.com^
 ||flanklamppostprominent.com^
 ||flapnoncommittal.com^
@@ -22453,6 +22457,7 @@
 ||footerfont.com^
 ||footholdmummifytwig.com^
 ||foothotgoback.com^
+||footmanresoluteshrivel.com^
 ||footnote.com^
 ||footprintsclergymanwaiting.com^
 ||footprintsfurnish.com^
@@ -43206,6 +43211,7 @@
 ||stremmaraftage.com^
 ||strengthapocalypsebagel.com^
 ||strenuoustarget.com^
+||stretchadjoiningperspective.com^
 ||stretchedbarbarian.com^
 ||stretchedcreepy.com^
 ||stretching101.com^
@@ -43675,6 +43681,7 @@
 ||swoop.com^
 ||swooppolygraph.com^
 ||swoqxitffjvon.online^
+||swordbankrupt.com^
 ||sworlowedonhisdh.org^
 ||swottedplaidie.com^
 ||swounsdivell.life^
@@ -44924,6 +44931,7 @@
 ||topadbid.com^
 ||topadsservices.com^
 ||topadvert.ru^
+||topalter.org^
 ||topansagechan.com^
 ||topazdevelopment.org^
 ||topbetfast.com^
@@ -48055,7 +48063,6 @@
 ||weepyprogram.pro^
 ||weeshicaise.com^
 ||weewoogloogru.net^
-||weezoptez.net^
 ||weezunaiphade.net^
 ||wegetpaid.net^
 ||wegjiyydov.com^
@@ -49445,6 +49452,7 @@
 ||xsdsemgyxukwx.space^
 ||xsharenode.com^
 ||xsilbeesie.xyz^
+||xsjgnziutgznjy.com^
 ||xsjgqnzlbijnn.space^
 ||xskmpyxchvanm.site^
 ||xsmnthu3.net^
@@ -50250,6 +50258,7 @@
 ||zcapieuheltue.store^
 ||zcmnhyhbaokc.com^
 ||zcn8.net^
+||zcnlbpmyndlfxy.com^
 ||zcode17.com^
 ||zcoptry.com^
 ||zcswet.com^
