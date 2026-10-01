@@ -6,14 +6,13 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 30 Sep 2026 14:13 UTC
-! Version: 2026.0930.1413.57
+! Last modified: 01 Oct 2026 07:43 UTC
+! Version: 2026.1001.0743.50
 ! Syntax: AdBlock
-! Number of entries: 50729
+! Number of entries: 50652
 !
 ||fd01ce9a02.0012e30263.com^
 ||0db65504c2.012dadaa06.com^
-||c7ca525b2e.0491166852.com^
 ||42a95337ac.07a243cfe3.com^
 ||1f92a26341.0a57f6bbfd.com^
 ||fe4b0f5775.0b6f7dc9d8.com^
@@ -21,7 +20,6 @@
 ||a6f50f55d7.0fbee846c6.com^
 ||yongliboxianshangyulecheng.12540.org^
 ||297fdbc2f7.1426ab7568.com^
-||a1131034ac.1668420cbb.com^
 ||pykrsz.17yaoqi.cc^
 ||lib-f6libtpovfl7jzihv76x3blk.1lib.at^
 ||fallback.1million-sp2.online^
@@ -3469,7 +3467,6 @@
 ||0-60acceleration.com^
 ||0-84.com^
 ||0-9.net^
-||0-architecture.com^
 ||0-downpayment.com^
 ||0-emission.com^
 ||0-emissions.com^
@@ -3535,7 +3532,6 @@
 ||000884.com^
 ||000982.com^
 ||00099.net^
-||000av.org^
 ||000bet.com^
 ||000bitcoin000.com^
 ||000blockchain.com^
@@ -3856,7 +3852,6 @@
 ||011bz.xyz^
 ||011communication.com^
 ||011play.com^
-||0120040001.com^
 ||01206.com^
 ||0120999900.net^
 ||0120webdesign.com^
@@ -3870,7 +3865,6 @@
 ||0123movie.pro^
 ||0123moviehd.com^
 ||0123movies.click^
-||0123movies4k.com^
 ||0123movies4u.live^
 ||0123moviesback.com^
 ||0123moviesfree.net^
@@ -3964,12 +3958,10 @@
 ||01es.com^
 ||01file.com^
 ||01founders.com^
-||01free-share.com^
 ||01geek.com^
 ||01girl.com^
 ||01haose.com^
 ||01jan.com^
-||01ken.com^
 ||01main.com^
 ||01mspmd5yalky8.com^
 ||01myhope.com^
@@ -4076,7 +4068,6 @@
 ||023rcsc.com^
 ||023tour.com^
 ||023xcxx.com^
-||023yl.net^
 ||023yz.com^
 ||0241.net^
 ||024420.com^
@@ -4266,7 +4257,6 @@
 ||03969.com^
 ||03981.com^
 ||039858f297.com^
-||03d756a534.com^
 ||03eth.com^
 ||03j.org^
 ||03o.org^
@@ -4586,7 +4576,6 @@
 ||0755szxjy.com^
 ||07574.com^
 ||0757n.com^
-||0757xm.com^
 ||0759dm.com^
 ||0760miaov.com^
 ||0769id.com^
@@ -4606,7 +4595,6 @@
 ||079e158914.com^
 ||079mm.com^
 ||07c8b4.com^
-||07dy.net^
 ||07h5.com^
 ||07ming.com^
 ||07sketches.com^
@@ -4651,13 +4639,9 @@
 ||08893.com^
 ||088eee.com^
 ||08aqq.com^
-||08des-infos-utiles.com^
-||08fraicheinfo.com^
-||08gamer.com^
 ||08hy.com^
 ||08lb75.com^
 ||08lkk.com^
-||08mes-offres-web.com^
 ||08pp.com^
 ||08usa.com^
 ||090558.com^
@@ -4702,7 +4686,6 @@
 ||09vns.com^
 ||09wmn.com^
 ||09xnxx.com^
-||0a.rip^
 ||0ad1.com^
 ||0ady.com^
 ||0af2a962b0102942d9a7df351b20be55.com^
@@ -4733,7 +4716,6 @@
 ||0comic.com^
 ||0credit.net^
 ||0csu3.com^
-||0d25b79bea.com^
 ||0d9539106a.com^
 ||0da4.com^
 ||0dayexploits.net^
@@ -4778,7 +4760,6 @@
 ||0k1x.com^
 ||0k1x.org^
 ||0k1x.us^
-||0k5y5a98.com^
 ||0kag.com^
 ||0kal38g35ctc.top^
 ||0lag.net^
@@ -4822,7 +4803,6 @@
 ||0spot.online^
 ||0stylr.com^
 ||0sywjs4r1x.com^
-||0sz4.com^
 ||0t0.xyz^
 ||0teah3.com^
 ||0themastercylinder0.com^
@@ -4964,7 +4944,6 @@
 ||1-800-usa-babe.com^
 ||1-800-usa-love.com^
 ||1-800-vehicles.com^
-||1-800-wellness.mobi^
 ||1-800-wet-head.com^
 ||1-800-yes-babe.com^
 ||1-800-yes-sexx.com^
@@ -4982,7 +4961,6 @@
 ||1-breath.com^
 ||1-ddl.com^
 ||1-domain.com^
-||1-eclipse.com^
 ||1-funds-heree.com^
 ||1-geki.net^
 ||1-handed.com^
@@ -5017,7 +4995,6 @@
 ||10007.org^
 ||1000apk.com^
 ||1000consultants.com^
-||1000copies.org^
 ||1000dean.com^
 ||1000detalles1000ideas.com^
 ||1000dinners.com^
@@ -5055,7 +5032,6 @@
 ||100100.net^
 ||1001atmosphera.com^
 ||1001blogsforum.com^
-||1001celebrations.com^
 ||1001cesitmobilya.net^
 ||1001coques.com^
 ||1001cushions.com^
@@ -5076,7 +5052,6 @@
 ||100239.com^
 ||1003bkorea.com^
 ||1003xb.com^
-||1004abs.com^
 ||1004ad.com^
 ||1004doll.com^
 ||1004her.com^
@@ -5138,7 +5113,6 @@
 ||100marcial.com^
 ||100megsforums.com^
 ||100melrose.org^
-||100mg.biz^
 ||100milerealty.com^
 ||100milestore.net^
 ||100millionapparel.com^
@@ -5187,7 +5161,6 @@
 ||100yearsofworldcuisine.com^
 ||100youtube.com^
 ||100zen-yume.com^
-||101-glass.com^
 ||101-sex-positions.com^
 ||101000.shop^
 ||101015ankara.org^
@@ -5239,7 +5212,6 @@
 ||101searchengine.us^
 ||101sexpositions.com^
 ||101sportstv.com^
-||101st-fleet.com^
 ||101stories.com^
 ||101vestidos.net^
 ||101west78.com^
@@ -5253,7 +5225,6 @@
 ||1024au.com^
 ||1024az.com^
 ||1024btgc.com^
-||1024c2.biz^
 ||1024diss.info^
 ||1024ems.com^
 ||1024fm.com^
@@ -5400,7 +5371,6 @@
 ||10acrefarms.com^
 ||10answers.net^
 ||10bbb.com^
-||10beast.com^
 ||10best-mattresses.com^
 ||10bestninjas.com^
 ||10bestvpnservices.com^
@@ -5484,7 +5454,6 @@
 ||10rur.pro^
 ||10s.club^
 ||10sdy.com^
-||10secondsmore.com^
 ||10sfc.com^
 ||10shemale.com^
 ||10shops.com^
@@ -5568,14 +5537,12 @@
 ||1111xnxx.com^
 ||111333a6.com^
 ||111560.com^
-||111av.org^
 ||111avs.net^
 ||111axg.xyz^
 ||111blr.net^
 ||111bz.org^
 ||111juegos.com^
 ||111learning.com^
-||111lie.com^
 ||111media.com^
 ||111pan.com^
 ||111pg.vip^
@@ -5617,7 +5584,6 @@
 ||114dy.net^
 ||114h5.com^
 ||114jn.com^
-||114paintedskypoint.com^
 ||114v.net^
 ||114wzdq.com^
 ||115123.com^
@@ -5763,7 +5729,6 @@
 ||1230amdigital.com^
 ||1230horn515.com^
 ||1230wxco.com^
-||123123movies.net^
 ||12315tt.com^
 ||12316ccr.com^
 ||12316vdd.com^
@@ -5813,7 +5778,6 @@
 ||123century.com^
 ||123chase.com^
 ||123chatgroups.com^
-||123checkers.com^
 ||123chill.info^
 ||123chill.net^
 ||123chinesenewyear.com^
@@ -5830,7 +5794,6 @@
 ||123drama.com^
 ||123eastcoastinksc.com^
 ||123easytaxfiling.com^
-||123emovies.com^
 ||123enjoy.net^
 ||123fans.xyz^
 ||123farms.com^
@@ -5849,7 +5812,6 @@
 ||123hbo.com^
 ||123hd.club^
 ||123hdfree.com^
-||123hdgallery.com^
 ||123hdmovie.com^
 ||123hdo.com^
 ||123hpcom-setup.online^
@@ -5878,7 +5840,6 @@
 ||123mkv.info^
 ||123moives.to^
 ||123moovies.info^
-||123moovies.org^
 ||123movie.city^
 ||123movie.mobi^
 ||123movie.show^
@@ -5902,7 +5863,6 @@
 ||123movies-is.org^
 ||123movies-official.com^
 ||123movies-t.com^
-||123movies-to.info^
 ||123movies00.com^
 ||123movies123.online^
 ||123movies1free.com^
@@ -5929,7 +5889,6 @@
 ||123movieshall.com^
 ||123movieshd.org^
 ||123movieshelper.com^
-||123movieshit.com^
 ||123movieshub.dev^
 ||123movieshub.net^
 ||123movieshub.org^
@@ -5966,7 +5925,6 @@
 ||123moviesvip.com^
 ||123movieswatch.net^
 ||123moviesweb.com^
-||123movieswebsites.com^
 ||123moviesz.com^
 ||123movietv.com^
 ||123moviex.com^
@@ -5975,7 +5933,6 @@
 ||123moviies.org^
 ||123movvies.com^
 ||123music.us^
-||123musiq.mobi^
 ||123netflix.pro^
 ||123onlinemovies.com^
 ||123oop.com^
@@ -5986,7 +5943,6 @@
 ||123play.live^
 ||123playwin.org^
 ||123porner.com^
-||123premierefoodsafety.com^
 ||123propertynews.com^
 ||123qqxs.com^
 ||123rarbg.com^
@@ -6019,7 +5975,6 @@
 ||123wzwp.com^
 ||123yq.com^
 ||123zuste1zeste.com^
-||124986.com^
 ||124ee.com^
 ||125151.com^
 ||12530.info^
@@ -6116,7 +6071,6 @@
 ||131050.com^
 ||13106cp.com^
 ||131076.com^
-||13121e3d88.com^
 ||1312a.com^
 ||131928.com^
 ||1320thefan.net^
@@ -6170,7 +6124,6 @@
 ||135flight.com^
 ||135flight.net^
 ||135flight.org^
-||135km.org^
 ||135q.com^
 ||135sky.com^
 ||135sky.net^
@@ -6200,7 +6153,6 @@
 ||13colonies.info^
 ||13days.net^
 ||13dk.net^
-||13dl.org^
 ||13el.com^
 ||13floor.net^
 ||13fsmartmoney.com^
@@ -6258,7 +6210,6 @@
 ||144g.com^
 ||144yokosuka.com^
 ||14523.com^
-||145858.com^
 ||145kvct.com^
 ||1460.us^
 ||1463.info^
@@ -6275,7 +6226,6 @@
 ||149bo.com^
 ||14abb.com^
 ||14acharity.org^
-||14adistrictcourt.com^
 ||14apk.com^
 ||14bar.org^
 ||14beta.com^
@@ -6346,7 +6296,6 @@
 ||158cafe.com^
 ||158i.com^
 ||158x.net^
-||15946bfe8d.com^
 ||159988.com^
 ||15bt.info^
 ||15dgbyg.com^
@@ -6365,7 +6314,6 @@
 ||15minutecorporatewarrior.com^
 ||15minutemanifestationpdf.com^
 ||15thjdcpretrial.com^
-||15thwisconsin.net^
 ||15um.net^
 ||15usw.com^
 ||15williamny.com^
@@ -6378,11 +6326,9 @@
 ||160660.com^
 ||16073.com^
 ||1608bistro.com^
-||160grandprixgokarts.com^
 ||160idc.com^
 ||160ys.com^
 ||161286.com^
-||161492.com^
 ||1615.us^
 ||1616jj.com^
 ||1619.top^
@@ -6464,7 +6410,6 @@
 ||171starbucks.com^
 ||171t.com^
 ||17234.com^
-||17282cd89c.com^
 ||172zy.net^
 ||1735.cc^
 ||173lineage.com^
@@ -6609,7 +6554,6 @@
 ||18k.me^
 ||18kronaldinho.com^
 ||18ktshoes.com^
-||18lhplus.com^
 ||18malaysia.com^
 ||18mm-cg.com^
 ||18moons.com^
@@ -6683,7 +6627,6 @@
 ||19clip.com^
 ||19fzl.cn^
 ||19greenskelowna.com^
-||19j002.com^
 ||19j005.com^
 ||19jin.club^
 ||19jtv1.info^
@@ -6711,7 +6654,6 @@
 ||1ato.com^
 ||1b2k.info^
 ||1b3tmfcbq.de^
-||1b87094b09.com^
 ||1b9e934cbd.com^
 ||1baima.com^
 ||1bank.info^
@@ -6726,7 +6668,6 @@
 ||1blogspot.com^
 ||1bm3n8sld.de^
 ||1bnbsingapore.com^
-||1brcl.com^
 ||1buv.com^
 ||1c6fd11ca2.com^
 ||1cannha.com^
@@ -6738,7 +6679,6 @@
 ||1clic1don.fr^
 ||1clickcopy.com^
 ||1cliq.trade^
-||1conjuginn.top^
 ||1cpf.com^
 ||1crd.me^
 ||1cupawesome.com^
@@ -6800,7 +6740,6 @@
 ||1kcasino.com^
 ||1keytools.com^
 ||1ki3.com^
-||1kindesign.com^
 ||1knhg4mmq.de^
 ||1lbk62l5c.de^
 ||1lib.world^
@@ -6861,7 +6800,6 @@
 ||1stwikicasino.com^
 ||1tamilmv.media^
 ||1tamilmv.news^
-||1tamilmv.team^
 ||1tds26q95.de^
 ||1titan.com^
 ||1ts03.top^
@@ -6875,16 +6813,13 @@
 ||1tyceq79r.com^
 ||1v1lol.app^
 ||1wage.top^
-||1waid.top^
 ||1wallpaper.net^
 ||1web.me^
 ||1wiipr.xyz^
 ||1win-kasinoz-rfgg.buzz^
 ||1win-sites11.top^
 ||1winpb.com^
-||1wozlt.top^
 ||1wuwho.top^
-||1wzwbc.top^
 ||1x001.com^
 ||1x1x4.com^
 ||1x1x7.com^
@@ -7088,7 +7023,6 @@
 ||24hmedia.net^
 ||24illustrateurs.com^
 ||24kwx.cc^
-||24megabytes.com^
 ||24motiondesign.com^
 ||24newstech.com^
 ||24oremottacultura.com^
@@ -7149,7 +7083,6 @@
 ||27igqr8b.de^
 ||27missingkisses.com^
 ||280a.org^
-||280ereform.org^
 ||2830022a41.com^
 ||283377.com^
 ||2878644238.com^
@@ -7179,7 +7112,6 @@
 ||2analsex.com^
 ||2annalea.com^
 ||2aol.com^
-||2b8fa02c00.com^
 ||2ba0f6361c.com^
 ||2barnowls.com^
 ||2bd77addac.com^
@@ -7206,7 +7138,6 @@
 ||2dornot2d.org^
 ||2e-bureau.com^
 ||2explore.com^
-||2f2d60b8b5.com^
 ||2f3747e327.com^
 ||2f44166f35.com^
 ||2fac37d3043958c40b070aa9e03761887235aae62f9a51e2caa649f9.com^
@@ -7407,13 +7338,10 @@
 ||35xv.com^
 ||360ads.com^
 ||360blockchaininc.com^
-||360blog.org^
 ||360by360competition.com^
 ||360city.net^
-||360cncn.com^
 ||360degreesprojects.com^
 ||360edge.cn^
-||360entrepreneur.net^
 ||360guard-360.cn^
 ||360installer.com^
 ||360istanbuleast.com^
@@ -7485,7 +7413,6 @@
 ||3c0c-annobon.com^
 ||3c3cc.com^
 ||3ca9dc59cc.com^
-||3cd03be731.com^
 ||3cdn.net^
 ||3ckz.com^
 ||3csk7.com^
@@ -7500,7 +7427,6 @@
 ||3dchampions.org^
 ||3dconnextion.com^
 ||3ddown.com^
-||3dedca7f84.com^
 ||3dface.org^
 ||3dfilamentshop.com^
 ||3dgrafix.net^
@@ -7548,7 +7474,6 @@
 ||3pfruits.com^
 ||3pillardesigns.com^
 ||3pkf5m0gd.com^
-||3pmlimited.com^
 ||3ppc.net^
 ||3pybi1jqdxx1.top^
 ||3q4q.com^
@@ -7563,7 +7488,6 @@
 ||3rdtemple.org^
 ||3rdwwwave.com^
 ||3riversnews.com^
-||3secondheat.com^
 ||3shadesofblack.net^
 ||3sky.dev^
 ||3slut.com^
@@ -7575,10 +7499,8 @@
 ||3wr110.net^
 ||3x3eurotour.com^
 ||3xbrh4rxsvbl.top^
-||3xgood.com^
 ||3xyy.com^
 ||4-slots.com^
-||40-yard-dash-times.com^
 ||400571.com^
 ||400bonuscasino.com^
 ||400bz.com^
@@ -7586,7 +7508,6 @@
 ||401ingear.com^
 ||401l.com^
 ||404systemerror.com^
-||4058e46800.com^
 ||40999.vip^
 ||409hk.com^
 ||40ceexln7929.com^
@@ -13760,6 +13681,7 @@
 ||boovoogie.net^
 ||bopako.com^
 ||boqlwbntl.net^
+||boraxcompoundmousy.com^
 ||boreaddingobserve.com^
 ||boreasnetsuke.com^
 ||boredcrown.com^
@@ -31394,6 +31316,7 @@
 ||maskmonopoly.com^
 ||masonerthoria.shop^
 ||masqueradedue.com^
+||masqueradeegoismcurtain.com^
 ||massbrag.care^
 ||massdna.com^
 ||massesapproval.com^
@@ -47192,6 +47115,7 @@
 ||viewer-howdy.com^
 ||viewpath.xyz^
 ||viewplus.vn^
+||viewpointconfessedshelf.com^
 ||viewsafestsensible.com^
 ||viewtraff.com^
 ||viewworthwhile.com^
@@ -47761,7 +47685,6 @@
 ||waisheph.com^
 ||waistcoataskeddone.com^
 ||waisterwithsaw.com^
-||waitheja.net^
 ||waitingnumber.com^
 ||waitressamazinglyindependent.com^
 ||waiuhk.org^
